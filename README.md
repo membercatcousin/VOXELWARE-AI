@@ -8,4 +8,4 @@ VOXELWARE AI is an Artificial Intelegence made by VOXELWARE studios.
 
 ### WARNING : THIS AI IS NOT FOR COMMERCIAL USE AND ONLY FOR EDUCATIONAL/ENTERTAINMENT PURPUSES.
 
-### WARNING2 : THIS PROJECT IS DISCONTINUED AND IS NOW [membercatcousin AI](https://github.com/membercatcousin/membercatcousin-AI(
+### WARNING2 : THIS PROJECT IS DISCONTINUED AND IS NOW [membercatcousin AI](https://github.com/membercatcousin/membercatcousin-AI)
